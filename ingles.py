@@ -1,4 +1,4 @@
 def saludar():
-    print "Hello World!"
+    print "Hello, folks!"
     return
 saludar()
